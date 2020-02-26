@@ -7,13 +7,18 @@ I am interested in learning how to make interactive art and sound envinroments f
 Aint got much of that, yet I must admit that I have started multiple degrees (biomedical science, music, law, professional writing) however it ghas taken until this time to realise that all I really want to to is sit and code ( and make beautiful things of course
 
 ## What I do now.
-I am a musician mainly ( ain't no money in that) - I have two bands whic h I currently play in :
+I am a musician mainly ( ain't no money in that) - I have two bands which I currently play in :
 
-[Immigrant Union](instagram.com/immigrant_union)
-[Lubulwa](instgram.com/lubulwamusic)
+- [Immigrant Union](instagram.com/immigrant_union)
+- [Lubulwa](instgram.com/lubulwamusic)
 
-Piano/ keyboards and singiung is what I generally do
+Piano/ keyboards and singing is what I generally do
 
+## What next??
+
+Figuring out how this markdown language works haha. 
+
+`<h1>help me</h1>`
 
 
 ## Welcome to GitHub Pages
