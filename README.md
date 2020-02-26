@@ -1,6 +1,18 @@
-#About
+# About
 I am interested in learning how to make interactive art and sound envinroments for installation artworks, stage shows, and the like. Also interesteed in the web design part of things.
 
+# Background
+
+## Education
+Aint got much of that, yet I must admit that I have started multiple degrees (biomedical science, music, law, professional writing) however it ghas taken until this time to realise that all I really want to to is sit and code ( and make beautiful things of course
+
+## What I do now.
+I am a musician mainly ( ain't no money in that) - I have two bands whic h I currently play in :
+
+[Immigrant Union](instagram.com/immigrant_union)
+[Lubulwa](instgram.com/lubulwamusic)
+
+Piano/ keyboards and singiung is what I generally do
 
 
 
