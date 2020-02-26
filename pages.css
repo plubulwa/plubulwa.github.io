@@ -1,0 +1,286 @@
+html {
+    scroll-behavior: smooth;
+}
+* {
+    box-sizing: border-box;
+}
+body {font-family: 'clarendon-urw', serif;
+    font-size: 10pt;
+}
+
+h1 {
+    font-family: 'clarendon-urw', serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 2.5em;
+    text-align: center;
+    }
+h2 {
+    font-family: 'clarendon-urw', serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 1.8em;
+    text-align: center;
+    }
+h3 {
+    font-family: 'clarendon-urw', serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 1.6em;
+    text-align: center;
+    }
+
+h4 {
+    font-family: 'clarendon-urw', serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 1.3em;
+    text-align: center;
+    }
+
+p {
+    font-family: 'clarendon-urw-extra-narrow', serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 1em;
+    text-align: center;
+    color: #232427;
+}
+a {
+    color: #9aafff;
+    text-decoration: none;
+}
+a:hover{
+    color: #2324c6;
+    text-decoration: none;
+}
+header {
+    display: block;
+    background-color: #ebeaf3;
+    width: 100%;
+    height: 7em;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    z-index: 10;
+}
+#loGo {
+    width: 5em;
+    height: 5em;
+    position: fixed;
+    top: 1em;
+    left: 1em;
+}
+.headerButton {
+    position: relative;
+    display: inline-flex;
+    float: right;
+    font-size: 3em;
+    opacity: 1;
+    color: #232427;
+    padding: 0.75em 1em 0em 0.75em;
+}
+nav {
+    display:block;
+    visibility: hidden;
+    position: fixed;
+    top: 7em;
+    left: 0em;
+    background-color: #ebeaf3;
+    width: 100%;
+    height: 0em;
+    z-index: 10;
+    transition: 0.8s;
+    padding: 0 2em 0 2em;
+}
+.navButton {
+    position: relative;
+    display: inline;
+    margin: auto;
+    font-size: 1.8em;
+    opacity: 1;
+    padding: 1em 0.4em 0em 0.4em;
+    transition: 0.2s;
+}
+#brain {
+    color: #2324c688;
+}
+#brain:hover {
+    color: #2324c6;
+}
+#fire {
+    color: #ff00a888;
+}
+#fire:hover {
+    color: #ff00a8;
+}
+#gene {
+    color: #55008b88;
+}
+#gene:hover {
+    color: #55008b;
+}
+#plane {
+    color: #30afff88
+}
+#plane:hover {
+    color: #30afff;
+}
+#game {
+    color: #23242788;
+}#game:hover {
+    color: #232427;
+}
+
+.pageTitle {
+    display: block;
+    width: 100%;
+    height: auto;
+    position: fixed;
+    top: 7em;
+    left: 0em;
+    margin: 0;
+    z-index: 10;
+}
+.pagefoursquare {
+    position: fixed;
+    top: 9em;
+    left: 2em;
+    width: 3em;
+    height: 3em;
+}
+.blmSection {
+    display: block;
+    position: relative;
+    top: 0em;
+    left: 0em;
+    z-index: 6;
+    width: 110%;
+    height: auto;
+    padding-top: 18em;
+    padding-bottom: 3em;
+    padding-left: 5em;
+    padding-right: 5em;
+}
+
+#blmHead {
+    background-color: #ebeaf3cc;
+}
+.blmHeadHead {
+    color: #2324c6;
+}
+article {
+    padding: 01em;
+    background-color: #ebeaf3cc;
+    margin: auto;
+    max-width: 1000px;
+    margin-bottom: 2em;
+    box-shadow: 0.5em 0.5em 0.5em #939bbe44, 1.2em 1.2em 1.2em #9aafff44;
+    z-index: 8;
+}
+.vision {
+    display: inline-flex;
+    border: none;
+    border-radius: 0;
+    width: 15em;
+    max-width: 300px;
+    height: auto;
+    background-color: #ebeaf3;
+    margin: auto;
+    margin-top: 1.5em;
+    padding: 0.3em 0.3em 1em 0.3em;
+    z-index: 9;
+}
+.vision li {
+    font-family: 'clarendon-urw-extra-narrow', serif;
+    font-weight: 300;
+    list-style: none;
+}
+figure {
+    margin: auto;
+    width: 14em;
+}
+.personPhoto {
+    width: 14em;
+    margin: auto;
+}
+figcaption {
+    visibility: hidden;
+    font-size: 0.3em;
+    font-weight: 200;
+    font-family: 'clarendon-urw-etra-narrow', serif;
+}
+.videoWrapper {
+      position: relative;
+      padding-bottom: 56.25%; /* 16:9 */
+      padding-top: 1.75em;
+      height: 0;
+}
+.videoWrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+}
+#blmSoul {
+        background-color: #ebeaf3ee;
+}
+.blmSoulHead {
+    color: #ff00a8;
+}
+#blmSex {
+        background-color: #ebeaf3cc;
+}
+.blmSexHead {
+        color: #55008b;
+}
+#blmContact {
+        margin: auto;
+        text-align: left;
+        background-color: #ebeaf3ef;
+        padding-bottom: 7em;
+}
+.blmContactHead {
+    color: #30afff;
+}
+
+
+.contactButton {
+    margin: auto;
+    height: auto;
+    width: 8em;
+    margin-top: 2em;
+    text-align: center;
+    font-size: 1.5em;
+    padding: 0.5em;
+    background-color: #30afff;
+    color: #232427;
+}
+#instaGram a {
+    color: #23242788;
+}
+#emailUs a {
+    color: #23242788;
+}
+#instaGram a:hover {
+    color: #2324c6;
+}
+#emailUs a:hover {
+    color: #2324c6;
+}
+.placeHolder {
+    display: block;
+    position: relative;
+    top: 0em;
+    left: 0em;
+    height: 18em;
+    width: 100%;
+}
+footer {
+    display: block;
+    position: relative;
+    bottom: 5em;
+    left: 0em;
+    height: auto;
+}
