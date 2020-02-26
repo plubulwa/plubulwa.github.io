@@ -1,5 +1,5 @@
 #About
-I am interested in learning how to make interactive art and sound envinroments for installation artworks, stage shows, and the like. Aslo interesteed in the web design part of things.
+I am interested in learning how to make interactive art and sound envinroments for installation artworks, stage shows, and the like. Also interesteed in the web design part of things.
 
 
 
