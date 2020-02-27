@@ -7,7 +7,7 @@
 - Education History: Some university, without completion:
 
 ## Education
-Aint got much of that, yet I must admit that I have started multiple degrees (biomedical science, music, law, professional writing) however it has taken until this time to realise that all I really want to do is sit down and code ( and make beautiful things of course
+Aint got much, yet I must admit that I have started multiple degrees (biomedical science, music, law, professional writing) however it has taken until this time to realise that all I really want to do is sit down and code ( and make beautiful things of course
 
 ## What I do now.
 I am a musician mainly ( ain't no money in that) - I have two bands which I currently play in :
