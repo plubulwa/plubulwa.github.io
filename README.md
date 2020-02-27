@@ -6,12 +6,6 @@
 -Languages spoken: English
 -Education History: Some university, without completion:
 
-## About 
-
-
-
-## Background
-
 ## Education
 Aint got much of that, yet I must admit that I have started multiple degrees (biomedical science, music, law, professional writing) however it has taken until this time to realise that all I really want to do is sit down and code ( and make beautiful things of course
 
