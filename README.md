@@ -1,4 +1,38 @@
-## Personal Profile
+# Personal Information
+-Name: Peter Lubulwa
+-Student Number : s3857381
+-Email Address: s3857381@student.rmit.edu.au
+-Nationality: Australian, Ugandan
+-Languages spoken: English
+-Education History: Some university, without completion:
+
+## Education
+Aint got much of that, yet I must admit that I have started multiple degrees (biomedical science, music, law, professional writing) however it has taken until this time to realise that all I really want to do is sit down and code ( and make beautiful things of course
+
+## What I do now.
+I am a musician mainly ( ain't no money in that) - I have two bands which I currently play in :
+- [Immigrant Union](instagram.com/immigrant_union)
+- [Lubulwa](instgram.com/lubulwamusic)
+Piano/ keyboards and singing is what I generally do.
+
+# Interest in IT
+You should answer the questions below as best you can. Each answer should be one paragraph in length. 
+
+ 
+- What is your interest in IT? When did your interest in IT start? Was there a particular event or person that sparked your interest? Outline your IT experience (if any).
+- Why did you choose to come to RMIT? • What do you expect to learn during your studies? 
+
+- I am interested in learning how to make interactive art and sound envinroments for installation artworks, stage shows, and the like. Also interesteed in the web design part of things.
+- Always been interested in computers ( from the x386 - I'm old haha) but never really spent the time going into things
+- Recently deceided to build a website from scratch as an in road to learning some other code languages ( there are fun things with generative synthesis and interactive sound design that you can do with some programs, but it requires a bit of coding know how). Also these days, web design leads to app design leads to needing more and more knowledge in order to make things work ( well, make them work ssmoothly). (Mention the website deisgining friends and the coding friends and the game design friends too..,.)
+- RMIT chose me I guess - was aiming to study online and then OUA talked me into the Bachelor's which I am grateful for. From friends who are alumni they said it was rrallly good so I'm glad that I'm here.
+- I expect to have a good knowledge of how the 'things' work - One of the frustrating things about a previous role is that developers and programmers would tell you that something was impossible; I could envisage a way ein my head of how to do it but didn't have the skills or know-how to execute or explain. 
+
+ # Ideal Job
+ 
+ 
+ # Personal Profile 
+
 • The results of an online Myers-Briggs test. • The results of an online learning style test. • The results of one further online test of your choosing. 
  The third test should be distinct from both the Myers-Briggs test and the learning styles test. 
  This could be a Big Five Personality test, a creativity test, or a psychometric test. You should be able to find something free, and please ensure that it is something that a potential employer may find relevant (so please avoid things like a Nerdy Personality Attribute assessment or a Generic Conspiracist Beliefs test!). 
@@ -77,6 +111,9 @@ You can use these results to help you choose relevant learning techniques for yo
 
 ## Test 3 - find one
  
+
+ 
+ # Project Idea
 
 
 
