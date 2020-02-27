@@ -1,10 +1,10 @@
 # Personal Information
--Name: Peter Lubulwa
--Student Number : s3857381
--Email Address: s3857381@student.rmit.edu.au
--Nationality: Australian, Ugandan
--Languages spoken: English
--Education History: Some university, without completion:
+- Name: Peter Lubulwa
+- Student Number : s3857381
+- Email Address: s3857381@student.rmit.edu.au
+- Nationality: Australian, Ugandan
+- Languages spoken: English
+- Education History: Some university, without completion:
 
 ## Education
 Aint got much of that, yet I must admit that I have started multiple degrees (biomedical science, music, law, professional writing) however it has taken until this time to realise that all I really want to do is sit down and code ( and make beautiful things of course
@@ -84,7 +84,7 @@ Because they enjoy theoretical and abstract concepts, INTPs often do particularl
 
 •	Software developer
 
-## Learning Styles Inventory Test
+### Learning Styles Inventory Test
 
 (taken from https://www.learning-styles-online.com/inventory/
 
@@ -109,11 +109,25 @@ You can use these results to help you choose relevant learning techniques for yo
 
 
 
-## Test 3 - find one
+### Test 3 - find one
  
+## Project Idea
 
- 
- # Project Idea
+I would like to develop a 'live' virtual reality experience, which doesn't involve the use of VR glasses per se . The user/ visitor/ guest/ consumer would enter into a live environment maybe with head phones, and via location technology.
+
+1.	the app is the thing – app will have not location services, but localised location services for the purpose of the installation – bluetooth might have to be enabled.
+2.	interaction between the app and the live environment – app produces the soundtrack for the experiment  - need to have a base level sound desing so that it is not a silent discop haha
+3.	App directs traffic, location and other choisces ditctate results – choose your own adventure in a small box.
+4.	holograms/( are we not just making a VR platform??? why aren't we just making a VR platform) 
+Break.
+We want to be able to have 
+
+
+I am interested in creating interactive sound and art experiences- more specifically designing experience akin the The Rain Room ( in St Kilda ta the Moment), on. 
+Also – micro fvactories- i mean – yes??
+
+Research microfactories- designing and building state of the art micro-components would be a gas!!
+
 
 
 
