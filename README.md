@@ -1,10 +1,15 @@
-# About
-I am interested in learning how to make interactive art and sound envinroments for installation artworks, stage shows, and the like. Also interesteed in the web design part of things.
+Name: Peter Lubulwa
+Student Number : s3857381
+Email Address: s3857381@student.rmit.edu.au
+Nationality: Australian, Ugandan
+Languages spoken: English
+Education History: Some university, without completion:
 
-# Background
+## About 
+I am a xxx  
 
 ## Education
-Aint got much of that, yet I must admit that I have started multiple degrees (biomedical science, music, law, professional writing) however it ghas taken until this time to realise that all I really want to to is sit and code ( and make beautiful things of course
+Aint got much of that, yet I must admit that I have started multiple degrees (biomedical science, music, law, professional writing) however it has taken until this time to realise that all I really want to do is sit down and code ( and make beautiful things of course
 
 ## What I do now.
 I am a musician mainly ( ain't no money in that) - I have two bands which I currently play in :
@@ -14,11 +19,4 @@ I am a musician mainly ( ain't no money in that) - I have two bands which I curr
 
 Piano/ keyboards and singing is what I generally do
 
-### What next??
-
-Figuring out _how_ this **markdown language** works haha. 
-
-`<h1>help me</h1>`
- 
- I guess I always have to pull the request for a tracked change  _path_. **urgh**. Hahah
 
