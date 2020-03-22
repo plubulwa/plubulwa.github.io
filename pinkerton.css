@@ -123,8 +123,8 @@ article {
 #idealJob {
     float: right;
     top: -20em;
-    height: 30em;
-    width: 30em;
+    height: auto;
+    width: 50%;
 }
 @media screen and (min-width: 576px) {  
     body {
