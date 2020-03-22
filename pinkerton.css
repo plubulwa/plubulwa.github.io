@@ -79,9 +79,8 @@ article {
     position: absolute;
     z-index: 0;
     top: 1em;
-    left: 5%;
-    margin: auto;
     width: 90%;
+    margin: auto;
     height: 100%;
     background-color: #c6285988;
     transform: rotate(5deg);
@@ -92,8 +91,8 @@ article {
     z-index: 2;
     top: 1em;
     left: 5%;
-    margin: auto;
     width: 90%;
+    margin: auto;
     height: 100%;
     min-height: 15em;
     background-color: #342b7f88;
@@ -102,10 +101,10 @@ article {
 .content {
     padding: 1em;
     padding-top: 20em;
-    height: auto;
     z-index: 3;
+    margin: auto;
     width: 90%;
-    left: 5%;
+    height: auto;
     top: -2em;
     position: relative;
     background-color: #ebeaf3;
@@ -116,13 +115,14 @@ article {
 }
 #learningStyles {
     float: right;
+     width: 15em;
     height: auto;
-    width: 15em;
 }
+   
 #idealJob {
     float: right;
-    height: auto;
     width: 50%;
+    height: auto;
 }
 @media screen and (min-width: 576px) {  
     body {
