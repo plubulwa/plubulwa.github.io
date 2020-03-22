@@ -115,10 +115,10 @@ article {
     box-shadow: #2324c666 5px 5px 10px;
 }
 #learningStyles {
-    float: right;
+    margin : auto;
     top: -20em;
     height: 30em;
-    width: 40em;
+    width: 80%;
 }
 #idealJob {
     float: right;
