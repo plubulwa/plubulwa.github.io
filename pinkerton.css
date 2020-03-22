@@ -21,6 +21,7 @@ header {
     float:right;
 }
 a {
+    z-index: 11;
     color: #c62859;
 }
 a:hover {
